@@ -1,0 +1,96 @@
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\RedBlue-Server.exe
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\RedBlue-Server.deps.json
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\RedBlue-Server.runtimeconfig.json
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\RedBlue-Server.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\RedBlue-Server.pdb
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\NetCoreServer.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\PELog.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\NetCoreServer.pdb
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.csproj.AssemblyReference.cache
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.AssemblyInfoInputs.cache
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.AssemblyInfo.cs
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.csproj.CoreCompileInputs.cache
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-.E4AA1677.Up2Date
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.dll
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\refint\RedBlue-Server.dll
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.pdb
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\RedBlue-Server.genruntimeconfig.cache
+E:\Desktop\RedBlue-Server\obj\Debug\net6.0\ref\RedBlue-Server.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\protobuf-net.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\protobuf-net.Core.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\PETimer.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\MySql.Data.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Text.Json.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\ZstdSharp.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Desktop\RedBlue-Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\RedBlue-Server.exe
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\RedBlue-Server.deps.json
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\RedBlue-Server.runtimeconfig.json
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\RedBlue-Server.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\RedBlue-Server.pdb
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\MySql.Data.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\protobuf-net.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\protobuf-net.Core.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Text.Json.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\ZstdSharp.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\NetCoreServer.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\PELog.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\PETimer.dll
+E:\Desktop\RedBlue-Server - 副本\bin\Debug\net6.0\NetCoreServer.pdb
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.csproj.AssemblyReference.cache
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.AssemblyInfoInputs.cache
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.AssemblyInfo.cs
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.csproj.CoreCompileInputs.cache
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-.E4AA1677.Up2Date
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.dll
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\refint\RedBlue-Server.dll
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.pdb
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\RedBlue-Server.genruntimeconfig.cache
+E:\Desktop\RedBlue-Server - 副本\obj\Debug\net6.0\ref\RedBlue-Server.dll

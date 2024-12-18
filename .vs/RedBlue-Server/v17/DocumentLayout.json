@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\system\\roomsys\\roomsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:system\\roomsys\\roomsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\system\\roomsys\\roomdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:system\\roomsys\\roomdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\msg\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:msg\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\msg\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:msg\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\server\\servermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:server\\servermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\system\\ranksys\\ranksys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:system\\ranksys\\ranksys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\system\\playersys\\playersys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:system\\playersys\\playersys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\tools\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:tools\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\tools\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:tools\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\tools\\cevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:tools\\cevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\system\\roomsys\\pvproom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:system\\roomsys\\pvproom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\server\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:server\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\system\\loginsys\\loginsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:system\\loginsys\\loginsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\RedBlue-Server\\MsgProtocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\RedBlue-Server\\SystemRoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\RedBlue-Server\\ServerRoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\RedBlue-Server\\Tools\\MsgHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\RedBlue-Server\\Tools\\GameEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\RedBlue-Server\\Tools\\RankingData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|e:\\desktop\\redblue-server - \u526F\u672C\\system\\matchsys\\matchsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D259-4CAC-4993-A64A-C5F51D98B2CE}|RedBlue-Server.csproj|solutionrelative:system\\matchsys\\matchsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\MSG\\GameData.cs",
+              "RelativeDocumentMoniker": "MSG\\GameData.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\MSG\\GameData.cs",
+              "RelativeToolTip": "MSG\\GameData.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAnwI0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:55:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RankSys.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RankSys\\RankSys.cs",
+              "RelativeDocumentMoniker": "System\\RankSys\\RankSys.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RankSys\\RankSys.cs",
+              "RelativeToolTip": "System\\RankSys\\RankSys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:55:44.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerSys.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\PlayerSys\\PlayerSys.cs",
+              "RelativeDocumentMoniker": "System\\PlayerSys\\PlayerSys.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\PlayerSys\\PlayerSys.cs",
+              "RelativeToolTip": "System\\PlayerSys\\PlayerSys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:55:43.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RankingData.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server\\Tools\\RankingData.cs",
+              "RelativeDocumentMoniker": "..\\RedBlue-Server\\Tools\\RankingData.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server\\Tools\\RankingData.cs",
+              "RelativeToolTip": "..\\RedBlue-Server\\Tools\\RankingData.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:28:44.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomData.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RoomSys\\RoomData.cs",
+              "RelativeDocumentMoniker": "System\\RoomSys\\RoomData.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RoomSys\\RoomData.cs",
+              "RelativeToolTip": "System\\RoomSys\\RoomData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:51:49.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Msg.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\MSG\\Msg.cs",
+              "RelativeDocumentMoniker": "MSG\\Msg.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\MSG\\Msg.cs",
+              "RelativeToolTip": "MSG\\Msg.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAnwGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:51:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MsgProtocol.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server\\MsgProtocol.cs",
+              "RelativeDocumentMoniker": "..\\RedBlue-Server\\MsgProtocol.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server\\MsgProtocol.cs",
+              "RelativeToolTip": "..\\RedBlue-Server\\MsgProtocol.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:45:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomSys.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RoomSys\\RoomSys.cs",
+              "RelativeDocumentMoniker": "System\\RoomSys\\RoomSys.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RoomSys\\RoomSys.cs",
+              "RelativeToolTip": "System\\RoomSys\\RoomSys.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwFMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:04:07.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerManager.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Server\\ServerManager.cs",
+              "RelativeDocumentMoniker": "Server\\ServerManager.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Server\\ServerManager.cs",
+              "RelativeToolTip": "Server\\ServerManager.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAWwFABAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:39.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MatchSys.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\MatchSys\\MatchSys.cs",
+              "RelativeDocumentMoniker": "System\\MatchSys\\MatchSys.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\MatchSys\\MatchSys.cs",
+              "RelativeToolTip": "System\\MatchSys\\MatchSys.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:01:43.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PVPRoom.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RoomSys\\PVPRoom.cs",
+              "RelativeDocumentMoniker": "System\\RoomSys\\PVPRoom.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\RoomSys\\PVPRoom.cs",
+              "RelativeToolTip": "System\\RoomSys\\PVPRoom.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:45.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Server\\ServerSession.cs",
+              "RelativeDocumentMoniker": "Server\\ServerSession.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Server\\ServerSession.cs",
+              "RelativeToolTip": "Server\\ServerSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginSys.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\LoginSys\\LoginSys.cs",
+              "RelativeDocumentMoniker": "System\\LoginSys\\LoginSys.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\System\\LoginSys\\LoginSys.cs",
+              "RelativeToolTip": "System\\LoginSys\\LoginSys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:00:42.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SystemRoot.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server\\SystemRoot.cs",
+              "RelativeDocumentMoniker": "..\\RedBlue-Server\\SystemRoot.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server\\SystemRoot.cs",
+              "RelativeToolTip": "..\\RedBlue-Server\\SystemRoot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServerRoot.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server\\ServerRoot.cs",
+              "RelativeDocumentMoniker": "..\\RedBlue-Server\\ServerRoot.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server\\ServerRoot.cs",
+              "RelativeToolTip": "..\\RedBlue-Server\\ServerRoot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:38.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:31:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SingletonBase.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Tools\\SingletonBase.cs",
+              "RelativeDocumentMoniker": "Tools\\SingletonBase.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Tools\\SingletonBase.cs",
+              "RelativeToolTip": "Tools\\SingletonBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MsgHandler.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server\\Tools\\MsgHandler.cs",
+              "RelativeDocumentMoniker": "..\\RedBlue-Server\\Tools\\MsgHandler.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server\\Tools\\MsgHandler.cs",
+              "RelativeToolTip": "..\\RedBlue-Server\\Tools\\MsgHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameEvent.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server\\Tools\\GameEvent.cs",
+              "RelativeDocumentMoniker": "..\\RedBlue-Server\\Tools\\GameEvent.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server\\Tools\\GameEvent.cs",
+              "RelativeToolTip": "..\\RedBlue-Server\\Tools\\GameEvent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:40.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Tools\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools\\Tools.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Tools\\Tools.cs",
+              "RelativeToolTip": "Tools\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:42.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CEvent.cs",
+              "DocumentMoniker": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Tools\\CEvent.cs",
+              "RelativeDocumentMoniker": "Tools\\CEvent.cs",
+              "ToolTip": "E:\\Desktop\\RedBlue-Server - \u526F\u672C\\Tools\\CEvent.cs",
+              "RelativeToolTip": "Tools\\CEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:35:41.836Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

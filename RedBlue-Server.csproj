@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>RedBlue_Server</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="NetCoreServer">
+            <HintPath>..\Dlls\Debug\netstandard2.1\NetCoreServer.dll</HintPath>
+        </Reference>
+        <Reference Include="PELog">
+            <HintPath>..\Dlls\PELog.dll</HintPath>
+        </Reference>
+        <Reference Include="PETimer">
+            <HintPath>..\Dlls\PETimer.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MySql.Data" Version="9.1.0"/>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3"/>
+        <PackageReference Include="protobuf-net" Version="3.2.45"/>
+    </ItemGroup>
+
+</Project>
